@@ -2,12 +2,12 @@
   "products": [
     {
       "id": "ol1",
-      "name": "0.5W LED osram color:white,yellow,green & blue",
+      "name": "0.5W LED osram eeg",
       "description": "Description of Product 1",
       "availability": "In Stock",
       "price":"25.99",
       "original_price": "699",
-      "type":"led",
+      "type":"led, color: white,blue,green",
       "brand":"osram"
     },
     {
