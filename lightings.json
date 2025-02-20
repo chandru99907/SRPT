@@ -60,6 +60,105 @@
       "original_price":"499",
        "type":"led",
       "brand":"osram"
+    },
+    {
+      "id": "007",
+      "name": "Product 7",
+      "description": "Description of Product 5",
+      "availability": "Out of Stock",
+      "price":"65.99",
+      "original_price":"599",
+        "type":"led",
+      "brand":"osram"
+
+    },
+    {
+      "id": "008",
+      "name": "Product 8",
+      "description": "Description of Product 5",
+      "availability": "Out of Stock",
+      "price":"65.99",
+      "original_price":"599",
+        "type":"led",
+      "brand":"osram"
+
+    },
+    {
+      "id": "009",
+      "name": "Product 9",
+      "description": "Description of Product 5",
+      "availability": "Out of Stock",
+      "price":"65.99",
+      "original_price":"599",
+        "type":"led",
+      "brand":"osram"
+
+    },
+    {
+      "id": "010",
+      "name": "Product 10",
+      "description": "Description of Product 5",
+      "availability": "Out of Stock",
+      "price":"65.99",
+      "original_price":"599",
+        "type":"led",
+      "brand":"osram"
+
+    },
+    {
+      "id": "011",
+      "name": "Product 11",
+      "description": "Description of Product 5",
+      "availability": "Out of Stock",
+      "price":"65.99",
+      "original_price":"599",
+        "type":"led",
+      "brand":"osram"
+
+    },
+    {
+      "id": "012",
+      "name": "Product 12",
+      "description": "Description of Product 5",
+      "availability": "Out of Stock",
+      "price":"65.99",
+      "original_price":"599",
+        "type":"led",
+      "brand":"osram"
+
+    },
+    {
+      "id": "013",
+      "name": "Product 13",
+      "description": "Description of Product 5",
+      "availability": "Out of Stock",
+      "price":"65.99",
+      "original_price":"599",
+        "type":"led",
+      "brand":"osram"
+
+    },
+    {
+      "id": "014",
+      "name": "Product 14",
+      "description": "Description of Product 5",
+      "availability": "Out of Stock",
+      "price":"65.99",
+      "original_price":"599",
+        "type":"led",
+      "brand":"osram"
+
+    },
+    {
+      "id": "015",
+      "name": "Product 15",
+      "description": "Description of Product 5",
+      "availability": "Out of Stock",
+      "price":"65.99",
+      "original_price":"599",
+        "type":"led",
+      "brand":"osram"
+
     }
   ]
 }
