@@ -2,12 +2,12 @@
   "products": [
     {
       "id": "ol1",
-      "name": "0.5W LED osram ",
+      "name": "0.5W LED osram color: white ,blue ,green",
       "description": "Description of Product 1",
       "availability": "In Stock",
       "price":"25.99",
       "original_price": "699",
-      "type":"led, color: white,blue,green",
+      "type":"led, ",
       "brand":"osram"
     },
     {
