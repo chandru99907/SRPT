@@ -189,6 +189,52 @@
         "type":"led",
       "brand":"osram"
 
-    }
+    },
+        {
+      "id": "none",
+      "name": "Coming soon ",
+      "description": "none",
+      "availability": "none",
+      "price":"0",
+      "original_price":"none",
+        "type":"none",
+      "brand":"none"
+
+        },
+        {
+      "id": "none",
+      "name": "Coming soon ",
+      "description": "none",
+      "availability": "none",
+      "price":"0",
+      "original_price":"none",
+        "type":"none",
+      "brand":"none"
+
+        },
+        {
+      "id": "none",
+      "name": "Coming soon ",
+      "description": "none",
+      "availability": "none",
+      "price":"0",
+      "original_price":"none",
+        "type":"none",
+      "brand":"none"
+
+        },
+        {
+      "id": "none",
+      "name": "Coming soon ",
+      "description": "none",
+      "availability": "none",
+      "price":"0",
+      "original_price":"none",
+        "type":"none",
+      "brand":"none"
+
+        }
+        
+      
   ]
 }
