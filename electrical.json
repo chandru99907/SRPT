@@ -1,1 +1,240 @@
+{
+  "products": [
+    {
+      "id": "ol1w",
+      "name": "0.5W LED osram color: white",
+      "description": "Description of Product 1",
+      "availability": "In Stock",
+      "price":"25",
+      "original_price": "699",
+      "type":"led, ",
+      "brand":"osram"
+    },
+    {
+      "id": "ol1b",
+      "name": "0.5W LED osram color:blue",
+      "description": "Description of Product 1",
+      "availability": "In Stock",
+      "price":"26",
+      "original_price": "699",
+      "type":"led, ",
+      "brand":"osram"
+    },
+    {
+      "id": "ol1g",
+      "name": "0.5W LED osram color:green",
+      "description": "Description of Product 1",
+      "availability": "In Stock",
+      "price":"25.79",
+      "original_price": "699",
+      "type":"led, ",
+      "brand":"osram"
+    },
+        {
+      "id": "ol1y",
+      "name": "0.5W LED osram color: yellow",
+      "description": "Description of Product 1",
+      "availability": "In Stock",
+      "price":"25.79",
+      "original_price": "699",
+      "type":"led, ",
+      "brand":"osram"
+    },
+    {
+      "id": "ol2",
+      "name": "2.9W LED osram",
+      "description": "Description of Product 2",
+      "availability": "Out of Stock",
+      "price":"35.99",
+      "original_price":"699",
+        "type":"led",
+      "brand":"osram"
+    },
+    {
+      "id": "ol3",
+      "name": "5W LED osram",
+      "description": "Description of Product 3",
+      "availability": "In Stock",
+      "price":"45.99",
+      "original_price": "699",
+       "type":"led",
+      "brand":"osram"
+    },
+    {
+      "id": "ol4",
+      "name": "7W LED osram",
+      "description": "Description of Product 4",
+      "availability": "In Stock",
+      "price":"55.99",
+      "original_price":"699",
+       "type":"led",
+      "brand":"osram"
+    },
+    {
+      "id": "ol5",
+      "name": "9W LED osram",
+      "description": "Description of Product 5",
+      "availability": "Out of Stock",
+      "price":"65.99",
+      "original_price":"599",
+        "type":"led",
+      "brand":"osram"
 
+    },
+     {
+      "id": "ol6",
+      "name": "12W LED osram",
+      "description": "Description of Product 6",
+      "availability": "In Stock",
+      "price":"75.99",
+      "original_price":"499",
+       "type":"led",
+      "brand":"osram"
+    },
+    {
+      "id": "ol7",
+      "name": "15W LED osram",
+      "description": "Description of Product 5",
+      "availability": "Out of Stock",
+      "price":"65.99",
+      "original_price":"599",
+        "type":"led",
+      "brand":"osram"
+
+    },
+    {
+      "id": "ol8",
+      "name": "18W LED osram",
+      "description": "Description of Product 5",
+      "availability": "Out of Stock",
+      "price":"65.99",
+      "original_price":"599",
+        "type":"led",
+      "brand":"osram"
+
+    },
+    {
+      "id": "ol9",
+      "name": "20W batten Osram LED",
+      "description": "Description of Product 5",
+      "availability": "Out of Stock",
+      "price":"65.99",
+      "original_price":"599",
+        "type":"led",
+      "brand":"osram"
+
+    },
+    {
+      "id": "ol10",
+      "name": "3W spotlight Osram LED",
+      "description": "Description of Product 5",
+      "availability": "Out of Stock",
+      "price":"65.99",
+      "original_price":"599",
+        "type":"led",
+      "brand":"osram"
+
+    },
+    {
+      "id": "ol11",
+      "name": "9W inverter lamp Osram LED",
+      "description": "Description of Product 5",
+      "availability": "Out of Stock",
+      "price":"65.99",
+      "original_price":"599",
+        "type":"led",
+      "brand":"osram"
+
+    },
+    {
+      "id": "pt1",
+      "name": "36W Philips Tubular Lamp",
+      "description": "Description of Product 5",
+      "availability": "Out of Stock",
+      "price":"65.99",
+      "original_price":"599",
+        "type":"led",
+      "brand":"osram"
+
+    },
+    {
+      "id": "pt2",
+      "name": "40W Philips Tubular Lamp",
+      "description": "Description of Product 5",
+      "availability": "Out of Stock",
+      "price":"65.99",
+      "original_price":"599",
+        "type":"led",
+      "brand":"osram"
+
+    },
+    {
+      "id": "st1",
+      "name": "36W Surya Tubular Lamp",
+      "description": "Description of Product 5",
+      "availability": "Out of Stock",
+      "price":"65.99",
+      "original_price":"599",
+        "type":"led",
+      "brand":"osram"
+
+    },
+    {
+      "id": "st2",
+      "name": "40W Surya Tubular Lamp",
+      "description": "Description of Product 5",
+      "availability": "Out of Stock",
+      "price":"65.99",
+      "original_price":"599",
+        "type":"led",
+      "brand":"osram"
+
+    },
+        {
+      "id": "none",
+      "name": "Coming soon ",
+      "description": "none",
+      "availability": "none",
+      "price":"0",
+      "original_price":"none",
+        "type":"none",
+      "brand":"none"
+
+        },
+        {
+      "id": "none",
+      "name": "Coming soon ",
+      "description": "none",
+      "availability": "none",
+      "price":"0",
+      "original_price":"none",
+        "type":"none",
+      "brand":"none"
+
+        },
+        {
+      "id": "none",
+      "name": "Coming soon ",
+      "description": "none",
+      "availability": "none",
+      "price":"0",
+      "original_price":"none",
+        "type":"none",
+      "brand":"none"
+
+        },
+        {
+      "id": "none",
+      "name": "Coming soon ",
+      "description": "none",
+      "availability": "none",
+      "price":"0",
+      "original_price":"none",
+        "type":"none",
+      "brand":"none"
+
+        }
+        
+      
+  ]
+        }
